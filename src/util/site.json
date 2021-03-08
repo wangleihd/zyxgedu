@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "中业信工",
+    "titleTemplate": "%s",
+    "description": "中业信工教育",
+    "siteUrl": "https://foundation.stackrole.com",
+    "image": "/assets/stackrole.png",
+    "iconimage": "/assets/stackrole.png",
+    "twitterUsername": "@stackrole"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
