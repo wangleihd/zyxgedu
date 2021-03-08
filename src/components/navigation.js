@@ -11,16 +11,16 @@ const MenuItems = [
     title: "首页"
   },
   {
-    path: "/about",
-    title: "关于我们"
-  },
-  {
-    path: "/school",
+    path: "/blog",
     title: "学历院校"
   },
   {
-    path: "/exa",
+    path: "/blog",
     title: "证书认证"
+  },
+  {
+    path: "/about",
+    title: "关于我们"
   },
 ]
 
