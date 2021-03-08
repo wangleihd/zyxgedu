@@ -6,18 +6,19 @@ $breakpoint-xl: 1200px;
 
 :root {
 
-	--font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+	--font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol','Noto Color Emoji';
+
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
   
-  --primary-color: #5C2941;
-  --header-bg: #5C2941;
+  --primary-color: #096dd9;
+  --header-bg: #096dd9;
 
   --home-link-color: #d4d4d4;
   --home-link-hover-color:  var(--primary-color);
 
   --button-color: #E5C3D3;
-  --button-alternate-color: #5C2941;
+  --button-alternate-color: #096dd9;
 
   --post-link-color: #0F070B;
 
