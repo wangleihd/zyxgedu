@@ -3,10 +3,9 @@
     "title": "中业信工",
     "titleTemplate": "%s",
     "description": "中业信工教育",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "siteUrl": "https://zyxgedu.com",
+    "image": "/assets/logo.png",
+    "iconimage": "/favicon.png"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
